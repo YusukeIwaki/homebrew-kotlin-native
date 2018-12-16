@@ -1,9 +1,9 @@
 class KotlinNative < Formula
   homepage "https://github.com/JetBrains/kotlin-native"
-  url "https://github.com/JetBrains/kotlin-native/releases/download/v0.9.3/kotlin-native-macos-0.9.3.tar.gz"
-  sha256 "3002fe2f1cf11de0d6e7c2b4a8b6ff0491316ac947ba9baf595803b111c9031f"
+  url "https://github.com/JetBrains/kotlin/releases/download/v1.3.11/kotlin-native-macos-1.3.11.tar.gz"
+  sha256 "0813985e9cabf2393cf3396e5eb08a4b4bb21ed14e838a8b9e56b2809e89d284"
   head "https://github.com/JetBrains/kotlin-native.git"
-  version "v0.9.3"
+  version "v1.3.11"
 
   bottle :unneeded
 
